@@ -15,12 +15,12 @@
     <meta property="og:canonical" content="https://rb.ombudsman.go.id/portal/spip" />
     <meta property="og:author" content="https://rb.ombudsman.go.id/portal/spip" />
 <link  rel="canonical" href="https://rb.ombudsman.go.id/portal/spip" />
-<link rel="amphtml" href="https://notialahuti.ombudsman.go.id/amp/" />
-<link rel="alternate" hreflang="id-id" href="https://notialahuti.ombudsman.go.id/amp/"/>
- <link rel="alternate" href="https://notialahuti.ombudsman.go.id/amp/"/>
- <link rel="alternate" hreflang="id" href="https://notialahuti.ombudsman.go.id/amp/"/>
- <link rel="alternate" hreflang="en" href="https://notialahuti.ombudsman.go.id/amp/"/>
- <link rel="alternate" hreflang="x-default" href="https://notialahuti.ombudsman.go.id/amp/"/>
+<link rel="amphtml" href="https://perpustakaan.ombudsman.go.id/amp/" />
+<link rel="alternate" hreflang="id-id" href="https://perpustakaan.ombudsman.go.id/amp/"/>
+ <link rel="alternate" href="https://perpustakaan.ombudsman.go.id/amp/"/>
+ <link rel="alternate" hreflang="id" href="https://perpustakaan.ombudsman.go.id/amp/"/>
+ <link rel="alternate" hreflang="en" href="https://perpustakaan.ombudsman.go.id/amp/"/>
+ <link rel="alternate" hreflang="x-default" href="https://perpustakaan.ombudsman.go.id/amp/"/>
 <link  rel="icon" type="image/x-icon" href="https://akarjitu.dataklmsad902.site/images/setting-favicon/1/XClnwQQqQapxjYeX.png?s=4ebe292a0e2decd91060eca64b63b84e" />
 <link  rel="shortcut icon" type="image/x-icon" href="https://akarjitu.dataklmsad902.site/images/setting-favicon/1/XClnwQQqQapxjYeX.png?s=4ebe292a0e2decd91060eca64b63b84e" />
 
@@ -2403,7 +2403,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         ></li>
                         <li>
                           <a
-                            href="https://notialahuti.ombudsman.go.id/amp/"
+                            href="https://perpustakaan.ombudsman.go.id/amp/"
                             id="idysEtTf9m"
                             class="Magento\Customer\Block\Account\AuthorizationLink"
                             >Masuk | Daftar</a
@@ -2411,24 +2411,24 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </li>
 
                         <li class="nav item">
-                          <a href="https://notialahuti.ombudsman.go.id/amp/"
+                          <a href="https://perpustakaan.ombudsman.go.id/amp/"
                             >Lokasi Toko</a
                           >
                         </li>
                         <li class="nav item">
-                          <a href="https://notialahuti.ombudsman.go.id/amp/"
+                          <a href="https://perpustakaan.ombudsman.go.id/amp/"
                             >Lacak Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://notialahuti.ombudsman.go.id/amp/"
+                            href="https://perpustakaan.ombudsman.go.id/amp/"
                             >Pengembalian Pesanan</a
                           >
                         </li>
                         <li class="nav item">
                           <a
-                            href="https://notialahuti.ombudsman.go.id/amp/"
+                            href="https://perpustakaan.ombudsman.go.id/amp/"
                             class="top-header-link-faq"
                             >Bantuan</a
                           >
@@ -2605,7 +2605,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     "
                     >
                     <a
-                        href="https://notialahuti.ombudsman.go.id/amp/"
+                        href="https://perpustakaan.ombudsman.go.id/amp/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -2620,7 +2620,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     </a>
 
                     <a
-                        href="https://notialahuti.ombudsman.go.id/amp/"
+                        href="https://perpustakaan.ombudsman.go.id/amp/"
                         style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -10345,7 +10345,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="login-mobile">
                       <li>
                         <a
-                          href="https://notialahuti.ombudsman.go.id/amp/"
+                          href="https://perpustakaan.ombudsman.go.id/amp/"
                           id="idUJSNQamy"
                           >Masuk | Daftar</a
                         >
@@ -10377,7 +10377,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     <div class="my-account-logout-mobile">
                       <li>
                         <a
-                          href="https://notialahuti.ombudsman.go.id/amp/"
+                          href="https://perpustakaan.ombudsman.go.id/amp/"
                           id="idKRWYKRbl"
                           >Masuk | Daftar</a
                         >
@@ -11407,12 +11407,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                              <div class="buynow-button">
                            <button type="button"
-onclick="window.location.href='https://notialahuti.ombudsman.go.id/amp/'">
+onclick="window.location.href='https://perpustakaan.ombudsman.go.id/amp/'">
 LOGIN
 </button>
                               <div class="buynow-button">
 <button type="button"
-onclick="window.location.href='https://notialahuti.ombudsman.go.id/amp/'">
+onclick="window.location.href='https://perpustakaan.ombudsman.go.id/amp/'">
 DAFTAR
 </button>
                             </div>
@@ -11431,7 +11431,7 @@ DAFTAR
                             id="product-addtocart-action-m"
                           >
                             <button type="submit" title="Tambah Ke Keranjang" class="action primary tocart product-addtocart-button-cls" disabled>
-                              <a href="https://notialahuti.ombudsman.go.id/amp/" class="register"><span>DAFTAR</span></a>
+                              <a href="https://perpustakaan.ombudsman.go.id/amp/" class="register"><span>DAFTAR</span></a>
                             </button>
                             <div class="buynow-button">
                               <button
@@ -11440,7 +11440,7 @@ DAFTAR
                                 id="buy-now"
                                 class="action primary"
                               >
-                                <a href="https://notialahuti.ombudsman.go.id/amp/" class="login"><span>LOGIN</span></a>
+                                <a href="https://perpustakaan.ombudsman.go.id/amp/" class="login"><span>LOGIN</span></a>
                               </button>
                             </div>
 
@@ -14126,7 +14126,7 @@ DAFTAR
                 <!-- <p>Size :<span><a href="">Select size</a></span></p> -->
                 <span class="sticky-size-sel">Game: </span>
                 <span id="sticky_current_size"
-                  ><a href="https://notialahuti.ombudsman.go.id/amp/" class="sticky_nosize" alt="Mohon Pilih"
+                  ><a href="https://perpustakaan.ombudsman.go.id/amp/" class="sticky_nosize" alt="Mohon Pilih"
                     >SITUS TOTO</a
                   ></span
                 >
@@ -14159,7 +14159,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://notialahuti.ombudsman.go.id/amp/" class="login"><span>LOGIN</span></a>
+                <a href="https://perpustakaan.ombudsman.go.id/amp/" class="login"><span>LOGIN</span></a>
               </button>
             </div>
             <div class="buynow-button">
@@ -14169,7 +14169,7 @@ DAFTAR
                 id="buy-now"
                 class="action primary buynow-btn-sticky"
               >
-                <a href="https://notialahuti.ombudsman.go.id/amp/" class="login"><span>DAFTAR</span></a>
+                <a href="https://perpustakaan.ombudsman.go.id/amp/" class="login"><span>DAFTAR</span></a>
               </button>
             </div>
           </div>
